@@ -3,7 +3,7 @@ Simple SSH tunnel for Node
 
 > This script has no dependency on other Node modules.
 
-See the article at https://www.foobarflies.io/tunnel-all-the-things/
+See the article at https://tchap.me/blog/tunnel-all-the-things/
 
 #### Usage :
 
